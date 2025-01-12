@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at <a href="[https://drive.google.com/file/d/1vWW1Yo0P2HxZ97mYv-ypJLO_IUMBts4g/view?usp=drive_link](https://zingy-caramel-a55bdd.netlify.app/)" target="_blank">Project</a>)
+- 👨‍💻 All of my projects are available at  <b><a href="https://drive.google.com/file/d/1vWW1Yo0P2HxZ97mYv-ypJLO_IUMBts4g/view?usp=drive_link)" target="_blank">RESUME</a></b>
 
 - 💬 Ask me about MERN stack
 
