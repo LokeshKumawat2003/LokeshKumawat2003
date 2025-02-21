@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at  <b><a href="https://zingy-caramel-a55bdd.netlify.app/" target="_blank">Project</a></b>
+- 👨‍💻 All of my projects are available at  <b><a href="https://lokeshkumawat2003.netlify.app/" target="_blank">Project</a></b>
 
 - 💬 Ask me about MERN stack
 
 - 📫 How to reach me <b>lokeshkumawat288g@gmail.com</b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1vWW1Yo0P2HxZ97mYv-ypJLO_IUMBts4g/view?usp=drive_link" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1bjh9_4ObpLAe3LH7qYZ29e6NZ13LphbW/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
    <hr>
